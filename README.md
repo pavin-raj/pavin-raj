@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @pavin-raj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Django
+- 🌱 I’m currently learning Django
+- 📫 Reach me: pavinrajofficial@gmail.com
+<!-- - 💞️ I’m looking to collaborate on ... -->
+
 
 <!---
 pavin-raj/pavin-raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
