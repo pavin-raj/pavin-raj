@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavin-raj
-- 👀 I’m interested in Django
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Django
 - 📫 Reach me: pavinrajofficial@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
