@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavin-raj
 - 👀 I’m interested in Python
 - 📫 Reach me: pavinrajofficial@gmail.com
-- <!-- - 🌱 I’m currently learning Angular -->
+<!-- - 🌱 I’m currently learning Angular -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 
